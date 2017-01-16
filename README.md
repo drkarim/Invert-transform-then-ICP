@@ -5,3 +5,6 @@ This software written in C++ with VTK 7.0 accomplishes a very specific task of a
 The need for this software arose for recovering the inverted transformation from a transformation available to go from target surface to source, instead of source to target. 
 
 
+Rashed Karim 
+Biomedical Engineering
+King's College London 
